@@ -1,7 +1,7 @@
 👋 Hi! I'm Rachel Kwan
 
 - Computer Science at the University of Toronto
-- 🌱 I’m currently enjoying Front-end Development very much and passionate about problem solving programming!!
+- 🌱 I’m currently enjoying Front-end Development and passionate about problem solving programming!!
 - 📫 rkwan.hy@gmail.com
 
 <!---
