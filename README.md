@@ -1,6 +1,6 @@
 👋 Hi! I'm Rachel, computer Science student @ the University of Toronto who is excited to share my passion for Computer Science with others! 
 
-Passionate about front-end development (React, Angular, Flutter, Javascript/Typescript), striving to create innovative products to aid others. I am able to learn quickly and pick up new languages!
+Passionate about development (React, Angular, Flutter, Javascript/Typescript), striving to create innovative products to aid others. I am able to learn quickly and pick up new languages!
 
 
 - 📫 rkwan.hy@gmail.com
